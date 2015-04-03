@@ -1,7 +1,9 @@
-# Natural Sort JS
+# [Deprecated/Unsupported] Natural Sort JS
 [![Gem Version](https://badge.fury.io/rb/natural-sort-js.png)](http://badge.fury.io/rb/natural-sort-js) [![Build Status](https://secure.travis-ci.org/ets-berkeley-edu/natural-sort-js.png)](http://travis-ci.org/ets-berkeley-edu/natural-sort-js) [![Dependency Status](https://gemnasium.com/ets-berkeley-edu/natural-sort-js.png)](https://gemnasium.com/ets-berkeley-edu/natural-sort-js)
 
 Original natural sort can be found at http://www.overset.com/2008/09/01/javascript-natural-sort-algorithm/
+
+**03/25/2015 - Unsupported: Due to the ETS Berkeley team now using [npm](https://www.npmjs.com/) for front-end dependencies, this gem is no longer supported.**
 
 ## Getting Started
 
